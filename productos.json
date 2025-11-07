@@ -1,0 +1,619 @@
+[
+  {
+    "categoria": "TV",
+    "nombre": "ENOVA 32\" Google TV (TV32HD-GTV-EN)",
+    "mensaje_vendedor": "Este no es solo otro televisor: es la puerta de entrada al ecosistema Google. Fabricado en Argentina por Novatech, combina accesibilidad y tecnología de primer nivel. Tu cliente no compra solo una TV, compra una experiencia simple e inteligente.",
+    "beneficios_clave": [
+      "Sistema Google TV real, igual que las marcas premium",
+      "Control remoto con Asistente de Google incorporado",
+      "Fabricación argentina con soporte y garantía local"
+    ],
+    "frase_comercial": "Vendé la experiencia, no solo las pulgadas. Este modelo acerca la tecnología Google a todos los hogares.",
+    "tips_venta": [
+      "Resaltá que es Google TV auténtico, no Android genérico",
+      "Mostrá el control por voz con 'Ok Google'",
+      "Comentá que está fabricado en Argentina, con garantía local"
+    ],
+    "preguntas_calificacion": [
+      "¿Buscan un televisor fácil de usar?",
+      "¿Les interesa manejarlo por voz o con celular?",
+      "¿Quieren algo nacional con soporte local?"
+    ],
+    "ficha_tecnica": {
+      "pulgadas": "32\"",
+      "resolucion": "HD",
+      "tipo_pantalla": "IPS",
+      "sistema_operativo": "Google TV",
+      "entradas": "HDMI x2, USB x2, óptica",
+      "bluetooth": "si",
+      "wifi": "si",
+      "audio": "Dolby Digital",
+      "fabricacion": "Argentina"
+    },
+    "sku": "TV32HD-GTV-EN"
+  },
+  {
+    "categoria": "TV",
+    "nombre": "ENOVA 43\" Full HD Google TV (TV43FHD-GTV-EN)",
+    "mensaje_vendedor": "Ideal para quienes quieren disfrutar de todo el contenido Google en un tamaño versátil. Esta TV ofrece control por voz, fluidez y compatibilidad con todas las apps populares. Fabricada localmente, garantiza calidad y soporte confiable.",
+    "beneficios_clave": [
+      "Control por voz y Asistente de Google",
+      "Pantalla Full HD con gran nitidez",
+      "Fabricación nacional y soporte directo"
+    ],
+    "frase_comercial": "Tu cliente no compra solo una TV, compra entretenimiento inteligente con control por voz.",
+    "tips_venta": [
+      "Mencioná que es Google TV oficial",
+      "Explicá cómo usar el Chromecast incorporado",
+      "Resaltá la calidad de imagen Full HD y sonido Dolby"
+    ],
+    "preguntas_calificacion": [
+      "¿Buscan una TV para dormitorio o living?",
+      "¿Ya usan otros dispositivos Google?",
+      "¿Les interesa control por voz o streaming?"
+    ],
+    "ficha_tecnica": {
+      "pulgadas": "43\"",
+      "resolucion": "Full HD",
+      "tipo_pantalla": "IPS",
+      "sistema_operativo": "Google TV",
+      "entradas": "HDMI x3, USB x2, óptica",
+      "bluetooth": true,
+      "wifi": true,
+      "audio": "Dolby Digital",
+      "fabricacion": "Argentina"
+    },
+    "sku": "TV43FHD-GTV-EN"
+  },
+  {
+    "categoria": "TV",
+    "nombre": "ENOVA 50\" 4K Google TV (TV504K-GTV-EN)",
+    "mensaje_vendedor": "Este modelo es sinónimo de imagen 4K y experiencia premium. Google TV integrado, control por voz y un diseño moderno que se adapta a cualquier living.",
+    "beneficios_clave": [
+      "Resolución 4K UHD para máximo detalle",
+      "Google TV oficial con control por voz",
+      "Fabricación argentina con soporte ágil"
+    ],
+    "frase_comercial": "Convierte el living del cliente en una sala de cine con tecnología Google TV.",
+    "tips_venta": [
+      "Mostrá la diferencia entre 4K y Full HD",
+      "Demostrá cómo usar el control por voz",
+      "Comentá que viene con Chromecast incorporado"
+    ],
+    "preguntas_calificacion": [
+      "¿Buscan imagen 4K real?",
+      "¿Quieren usar apps de streaming sin dispositivos externos?",
+      "¿Qué espacio tienen para colocarla?"
+    ],
+    "ficha_tecnica": {
+      "pulgadas": "50\"",
+      "resolucion": "4K UHD",
+      "tipo_pantalla": "IPS",
+      "sistema_operativo": "Google TV",
+      "entradas": "HDMI x3, USB x2, óptica",
+      "bluetooth": true,
+      "wifi": true,
+      "audio": "Dolby Digital",
+      "fabricacion": "Argentina"
+    },
+    "sku": "TV504K-GTV-EN"
+  },
+  {
+    "categoria": "TV",
+    "nombre": "ENOVA 65\" 4K Google TV",
+    "mensaje_vendedor": "El tamaño que transforma la experiencia visual. Con resolución 4K y el sistema Google TV, este modelo lleva el entretenimiento a otro nivel.",
+    "beneficios_clave": [
+      "Pantalla 65\" con resolución 4K UHD",
+      "Control por voz integrado",
+      "Compatible con todas las apps del ecosistema Google"
+    ],
+    "frase_comercial": "Pantalla gigante, cero complicaciones. Ideal para el living o home theater.",
+    "tips_venta": [
+      "Enfatizá la inmersión del tamaño 65\"",
+      "Mostrá que se maneja todo con voz",
+      "Comentá que no necesita dongles o TV Box"
+    ],
+    "preguntas_calificacion": [
+      "¿Buscan una TV grande para el living?",
+      "¿Les interesa controlarla por voz?",
+      "¿Qué servicios de streaming usan?"
+    ],
+    "ficha_tecnica": {
+      "pulgadas": "65\"",
+      "resolucion": "4K UHD",
+      "tipo_pantalla": "IPS",
+      "sistema_operativo": "Google TV",
+      "entradas": "HDMI x3, USB x2, óptica",
+      "bluetooth": true,
+      "wifi": true,
+      "audio": "Dolby Digital",
+      "fabricacion": "Argentina"
+    },
+    "sku": "TV654K-GTV-EN"
+  },
+  {
+    "categoria": "TV",
+    "nombre": "ENOVA 75\" 4K Google TV",
+    "mensaje_vendedor": "El modelo insignia de Enova: imagen inmensa, sonido envolvente y todo el poder de Google TV. Ideal para espacios amplios y quienes buscan impacto visual total.",
+    "beneficios_clave": [
+      "Pantalla gigante de 75\" con resolución 4K UHD",
+      "Sonido Dolby Digital envolvente",
+      "Google TV con control por voz"
+    ],
+    "frase_comercial": "La máxima inmersión visual y sonora para quienes buscan lo mejor.",
+    "tips_venta": [
+      "Compará la diferencia de tamaño con una 55\"",
+      "Resaltá compatibilidad con Netflix, Disney+, Prime Video, YouTube",
+      "Comentá que tiene conectividad completa (HDMI, USB, óptica, Bluetooth)"
+    ],
+    "preguntas_calificacion": [
+      "¿Buscan una experiencia tipo cine?",
+      "¿Qué distancia tienen entre sofá y TV?",
+      "¿Ya usan dispositivos Google en casa?"
+    ],
+    "ficha_tecnica": {
+      "pulgadas": "75\"",
+      "resolucion": "4K UHD",
+      "tipo_pantalla": "IPS",
+      "sistema_operativo": "Google TV",
+      "entradas": "HDMI x3, USB x2, óptica",
+      "bluetooth": true,
+      "wifi": true,
+      "audio": "Dolby Digital",
+      "fabricacion": "Argentina"
+    },
+    "sku": "TV754K-GTV-EN"
+  }
+,
+  {
+    "categoria": "Heladera",
+    "nombre": "ENOVA 302L No Frost Inverter",
+    "mensaje_vendedor": "Con esta heladera No Frost te olvidás de descongelar para siempre. Su motor inverter la hace más silenciosa y eficiente, perfecta para hogares modernos que buscan bajo consumo y frescura constante.",
+    "beneficios_clave": [
+      "No Frost: cero escarcha, cero mantenimiento",
+      "Motor Inverter: menor ruido y consumo",
+      "Diseño moderno en acero inoxidable"
+    ],
+    "frase_comercial": "Comodidad, silencio y ahorro: el trío perfecto para tu cocina.",
+    "tips_venta": [
+      "Mostrá la diferencia entre cíclica y No Frost",
+      "Explicá cómo el motor Inverter reduce el consumo",
+      "Resaltá el diseño en acero inoxidable"
+    ],
+    "preguntas_calificacion": [
+      "¿Cuántas personas viven en el hogar?",
+      "¿Buscan bajo mantenimiento?",
+      "¿Prefieren menor consumo eléctrico?"
+    ],
+    "ficha_tecnica": {
+      "capacidad": "302 litros",
+      "tecnologia": "No Frost",
+      "motor": "Inverter",
+      "eficiencia": "C",
+      "color": "Plata",
+      "dispensador": false
+    },
+    "sku": "HEL302NF-INV"
+  },
+  {
+    "categoria": "Heladera",
+    "nombre": "ENOVA 339L No Frost con Dispensador",
+    "mensaje_vendedor": "Comodidad y frescura en un mismo producto. Esta heladera ofrece agua fría sin abrir la puerta, lo que ahorra energía y mantiene los alimentos por más tiempo.",
+    "beneficios_clave": [
+      "Dispensador de agua integrado",
+      "Sistema No Frost sin escarcha",
+      "Bandejas de vidrio templado resistentes"
+    ],
+    "frase_comercial": "Agua fresca al instante, sin abrir la puerta.",
+    "tips_venta": [
+      "Mostrá cómo usar el dispensador sin abrir la puerta",
+      "Comentá el ahorro energético del sistema No Frost",
+      "Resaltá la capacidad y la practicidad"
+    ],
+    "preguntas_calificacion": [
+      "¿Buscan comodidad con dispensador?",
+      "¿Tienen espacio para una heladera mediana?",
+      "¿Prefieren bajo mantenimiento?"
+    ],
+    "ficha_tecnica": {
+      "capacidad": "339 litros",
+      "tecnologia": "No Frost",
+      "motor": "Convencional",
+      "eficiencia": "C",
+      "color": "Gris metálico",
+      "dispensador": true
+    },
+    "sku": "HEL339NF-DISP"
+  },
+  {
+    "categoria": "Heladera",
+    "nombre": "ENOVA 420L Inverter No Frost",
+    "mensaje_vendedor": "Un modelo de gran capacidad y bajo ruido. Su motor Inverter y tecnología No Frost aseguran frescura, silencio y eficiencia energética para toda la familia.",
+    "beneficios_clave": [
+      "Motor Inverter silencioso",
+      "No Frost con control electrónico",
+      "Alta capacidad de almacenamiento"
+    ],
+    "frase_comercial": "Olvidate de descongelar y disfrutá del silencio del Inverter.",
+    "tips_venta": [
+      "Mostrá el panel electrónico con modos ECO",
+      "Explicá cómo el No Frost evita la escarcha",
+      "Resaltá la capacidad ideal para familias grandes"
+    ],
+    "preguntas_calificacion": [
+      "¿Cuántas personas usan la heladera?",
+      "¿Les molesta el ruido de compresores antiguos?",
+      "¿Buscan máxima eficiencia energética?"
+    ],
+    "ficha_tecnica": {
+      "capacidad": "420 litros",
+      "tecnologia": "No Frost",
+      "eficiencia": "A++",
+      "motor": "Inverter",
+      "color": "Negro acero",
+      "dispensador": true
+    },
+    "sku": "HEL420NF-INV"
+  },
+  {
+    "categoria": "Heladera",
+    "nombre": "ENOVA 520L Side by Side",
+    "mensaje_vendedor": "Diseñada para quienes valoran el orden y la comodidad. Esta heladera side by side ofrece espacio de sobra y control digital preciso.",
+    "beneficios_clave": [
+      "Freezer y heladera independientes",
+      "Motor Inverter silencioso",
+      "Control electrónico de temperatura"
+    ],
+    "frase_comercial": "Organización premium con diseño elegante.",
+    "tips_venta": [
+      "Resaltá la distribución interior tipo side by side",
+      "Mostrá el panel digital con control de temperatura",
+      "Comentá el bajo consumo gracias al Inverter"
+    ],
+    "preguntas_calificacion": [
+      "¿Buscan máxima capacidad?",
+      "¿Prefieren freezer separado?",
+      "¿Tienen cocina amplia?"
+    ],
+    "ficha_tecnica": {
+      "capacidad": "520 litros",
+      "tecnologia": "Multi Air Flow",
+      "eficiencia": "A++",
+      "motor": "Inverter",
+      "color": "Acero inoxidable",
+      "dispensador": true
+    },
+    "sku": "HEL520SBS-INV"
+  },
+  {
+    "categoria": "Lavarropas",
+    "nombre": "ENOVA LE06S10-BL - Carga superior 6 kg",
+    "mensaje_vendedor": "Ideal para hogares pequeños. Este lavarropas compacto combina bajo consumo con facilidad de uso y programas automáticos.",
+    "beneficios_clave": [
+      "Eficiencia energética A++",
+      "8 programas automáticos",
+      "Entrada de agua fría y caliente"
+    ],
+    "frase_comercial": "Lavado eficiente y práctico para espacios reducidos.",
+    "tips_venta": [
+      "Mostrá los modos de lavado en el panel digital",
+      "Explicá cómo reduce el consumo energético",
+      "Comentá su diseño compacto"
+    ],
+    "preguntas_calificacion": [
+      "¿Cuántas personas usan el lavarropas?",
+      "¿Tienen espacio reducido?",
+      "¿Buscan simplicidad o tecnología avanzada?"
+    ],
+    "ficha_tecnica": {
+      "tipo_carga": "Superior",
+      "capacidad": "6 kg",
+      "eficiencia": "A++",
+      "velocidad_centrifugado": "700 RPM",
+      "color": "Blanco"
+    },
+    "sku": "LE06S10-BL"
+  },
+  {
+    "categoria": "Lavarropas",
+    "nombre": "ENOVA LE08F10-BL - Carga frontal 8 kg Inverter",
+    "mensaje_vendedor": "Potencia, eficiencia y cuidado de las prendas. Este modelo con motor Inverter ofrece 16 programas, centrifugado potente y diseño slim fit.",
+    "beneficios_clave": [
+      "Motor Inverter silencioso",
+      "1400 RPM de centrifugado",
+      "Diseño Slim Fit para espacios chicos"
+    ],
+    "frase_comercial": "Ropa limpia y casi seca en menos tiempo.",
+    "tips_venta": [
+      "Explicá el ahorro del motor Inverter",
+      "Mostrá el panel con programas especiales",
+      "Comentá su diseño compacto Slim Fit"
+    ],
+    "preguntas_calificacion": [
+      "¿Buscan lavarropas silencioso?",
+      "¿Tienen poco espacio?",
+      "¿Prefieren máxima eficiencia energética?"
+    ],
+    "ficha_tecnica": {
+      "tipo_carga": "Frontal",
+      "capacidad": "8 kg",
+      "eficiencia": "A+",
+      "velocidad_centrifugado": "1400 RPM",
+      "color": "Blanco / Gris"
+    },
+    "sku": "LE08F10-BL"
+  },
+  {
+    "categoria": "Lavarropas",
+    "nombre": "ENOVA LE06F11-BL - Carga frontal Inverter 6 kg",
+    "mensaje_vendedor": "Este lavarropas frontal combina la eficiencia A+++ con motor Inverter, asegurando menor ruido y mayor durabilidad.",
+    "beneficios_clave": [
+      "Motor Inverter silencioso",
+      "Eficiencia energética A+++",
+      "16 programas automáticos"
+    ],
+    "frase_comercial": "El equilibrio justo entre rendimiento y silencio.",
+    "tips_venta": [
+      "Mostrá el motor Inverter y su garantía extendida",
+      "Explicá el ahorro energético A+++",
+      "Comentá sus múltiples programas"
+    ],
+    "preguntas_calificacion": [
+      "¿Buscan ahorro energético?",
+      "¿Lavan de noche o en horarios tranquilos?",
+      "¿Prefieren un lavarropas compacto?"
+    ],
+    "ficha_tecnica": {
+      "tipo_carga": "Frontal",
+      "capacidad": "6 kg",
+      "eficiencia": "A+++",
+      "velocidad_centrifugado": "1000 RPM",
+      "color": "Blanco"
+    },
+    "sku": "LE06F11-BL"
+  },
+  {
+    "categoria": "Lavasecarropas",
+    "nombre": "ENOVA LE10F10B - Lavasecarropas Inverter 10/7 kg",
+    "mensaje_vendedor": "Todo en uno. Lava y seca en el mismo ciclo, con motor Inverter y programas automáticos. Ideal para espacios reducidos o departamentos.",
+    "beneficios_clave": [
+      "Función de lavado y secado combinada",
+      "Motor Inverter silencioso y eficiente",
+      "Capacidad 10 kg lavado / 7 kg secado"
+    ],
+    "frase_comercial": "La solución completa: lavar, secar y listo.",
+    "tips_venta": [
+      "Explicá que evita tender la ropa",
+      "Comentá la capacidad doble (10/7 kg)",
+      "Mostrá el ahorro de espacio y tiempo"
+    ],
+    "preguntas_calificacion": [
+      "¿Tienen lugar para secar la ropa?",
+      "¿Buscan practicidad todo en uno?",
+      "¿Prefieren evitar el uso del tender?"
+    ],
+    "ficha_tecnica": {
+      "tipo_carga": "Frontal",
+      "capacidad_lavado": "10 kg",
+      "capacidad_secado": "7 kg",
+      "velocidad_centrifugado": "1500 RPM",
+      "motor": "Inverter",
+      "color": "Blanco"
+    },
+    "sku": "LE10F10B"
+  }
+,
+  {
+    "categoria": "Notebook",
+    "nombre": "ENOVA C141PP-A3S1-W11H - Intel Celeron 14\"",
+    "mensaje_vendedor": "Liviana, práctica y lista para usar. Esta notebook es ideal para estudiantes y usuarios que buscan una herramienta confiable para el día a día.",
+    "beneficios_clave": [
+      "Windows 11 preinstalado y listo para usar",
+      "Autonomía de hasta 6 horas",
+      "Diseño liviano y portátil"
+    ],
+    "frase_comercial": "Vendé tranquilidad, no potencia: la herramienta ideal para estudiar y trabajar.",
+    "tips_venta": [
+      "Comentá que viene con Windows 11 activado",
+      "Mostrá la duración real de la batería",
+      "Enfatizá el peso liviano (1.25 kg)"
+    ],
+    "preguntas_calificacion": [
+      "¿La va a usar para estudiar o trabajar?",
+      "¿Necesita autonomía o rendimiento?",
+      "¿Cuánto espacio usa habitualmente?"
+    ],
+    "ficha_tecnica": {
+      "procesador": "Intel Celeron N4020",
+      "ram": "4GB LPDDR4",
+      "almacenamiento": "128GB eMMC + slot M.2 extra",
+      "pantalla": "14\" HD",
+      "bateria": "Hasta 6 horas",
+      "sistema_operativo": "Windows 11 Home"
+    },
+    "sku": "C141PP-A3S1-W11H"
+  },
+  {
+    "categoria": "Notebook",
+    "nombre": "ENOVA NE15R310-08240W11H - Ryzen 3 15.6\"",
+    "mensaje_vendedor": "Una notebook completa para quienes trabajan o estudian. Con procesador Ryzen 3 y pantalla Full HD, combina rendimiento y comodidad visual.",
+    "beneficios_clave": [
+      "Procesador AMD Ryzen 3",
+      "Pantalla 15.6\" Full HD",
+      "Tecla Copilot integrada para IA"
+    ],
+    "frase_comercial": "Equilibrio perfecto entre rendimiento y comodidad.",
+    "tips_venta": [
+      "Comentá la tecla Copilot y su función IA",
+      "Resaltá la pantalla Full HD amplia",
+      "Mostrá la fluidez en multitarea"
+    ],
+    "preguntas_calificacion": [
+      "¿Qué tipo de tareas realiza?",
+      "¿Busca pantalla más grande o más liviana?",
+      "¿Usa muchas aplicaciones al mismo tiempo?"
+    ],
+    "ficha_tecnica": {
+      "procesador": "AMD Ryzen 3 3200U",
+      "ram": "8GB DDR4",
+      "almacenamiento": "240GB M.2 SATA3",
+      "pantalla": "15.6\" Full HD",
+      "sistema_operativo": "Windows 11",
+      "peso": "1.6 kg"
+    },
+    "sku": "NE15R310-08240W11H"
+  },
+  {
+    "categoria": "Aire",
+    "nombre": "ENOVA AES09IX10 - Split Inverter 2520 fg",
+    "mensaje_vendedor": "El equilibrio entre confort y ahorro. Gracias a su tecnología Inverter, mantiene temperatura estable con menor consumo eléctrico.",
+    "beneficios_clave": [
+      "Tecnología Inverter con gas R32",
+      "Silencioso y eficiente todo el día",
+      "Ideal para ambientes medianos"
+    ],
+    "frase_comercial": "Ahorro real y confort estable todo el año.",
+    "tips_venta": [
+      "Explicá la diferencia entre Inverter y ON/OFF",
+      "Comentá el ahorro de energía y arranque suave",
+      "Mostrá su bajo nivel de ruido"
+    ],
+    "preguntas_calificacion": [
+      "¿Cuántos m² tiene el ambiente?",
+      "¿Buscan ahorro energético o potencia máxima?",
+      "¿Lo usan de noche?"
+    ],
+    "ficha_tecnica": {
+      "tipo": "Split Inverter",
+      "frigorias": "2520 fg",
+      "gas": "R32",
+      "eficiencia": "B (vieja escala A++)",
+      "funciones": ["Automático", "Sleep", "ECO", "Health"],
+      "alimentacion": "220V 50Hz"
+    },
+    "sku": "AES09IX10"
+  },
+  {
+    "categoria": "Aire",
+    "nombre": "ENOVA AES12NX12 - Split ON/OFF 2816 fg",
+    "mensaje_vendedor": "Solución práctica para climatizar sin complicaciones. Este aire ON/OFF ofrece excelente potencia con funciones esenciales.",
+    "beneficios_clave": [
+      "Climatización eficaz a precio accesible",
+      "Mantenimiento sencillo con filtro lavable",
+      "Modos Sleep, Turbo y ECO"
+    ],
+    "frase_comercial": "Frescura y confort al alcance de todos.",
+    "tips_venta": [
+      "Mostrá su rapidez de enfriamiento",
+      "Comentá que tiene bajo mantenimiento",
+      "Explicá los modos ECO y Sleep"
+    ],
+    "preguntas_calificacion": [
+      "¿Cuántos m² tiene el ambiente?",
+      "¿Uso diario o esporádico?",
+      "¿Prefieren menor precio o más eficiencia?"
+    ],
+    "ficha_tecnica": {
+      "tipo": "Split ON/OFF",
+      "frigorias": "2816 fg",
+      "gas": "R410a",
+      "eficiencia": "A",
+      "funciones": ["Automático", "Sleep", "Turbo", "ECO"],
+      "alimentacion": "220V 50Hz"
+    },
+    "sku": "AES12NX12"
+  },
+  {
+    "categoria": "Celular",
+    "nombre": "Enova N51 - 6.67\" 8GB 256GB Android 14",
+    "mensaje_vendedor": "Un smartphone potente y fluido para el día a día. Con 8 GB de RAM y cámara de 50 MP, ofrece gran rendimiento y espacio para todo.",
+    "beneficios_clave": [
+      "8 GB de RAM + 256 GB de almacenamiento",
+      "Cámara de 50 MP y batería 5000 mAh",
+      "Android 14 actualizado y fluido"
+    ],
+    "frase_comercial": "Diseñado para quienes usan su celular intensamente.",
+    "tips_venta": [
+      "Mostrá la cámara con fotos de prueba",
+      "Resaltá el espacio interno + expansión SD",
+      "Comentá su fluidez al usar varias apps"
+    ],
+    "preguntas_calificacion": [
+      "¿Saca muchas fotos o graba videos?",
+      "¿Usa muchas apps abiertas?",
+      "¿Prefiere batería grande o pantalla mejor?"
+    ],
+    "ficha_tecnica": {
+      "pantalla": "6.67\" HD",
+      "procesador": "Unisoc Tiger T606 Octa Core",
+      "ram": "8 GB",
+      "almacenamiento": "256 GB + microSD",
+      "bateria": "5000 mAh",
+      "camaras": "Trasera 50 MP / Frontal 13 MP",
+      "sistema_operativo": "Android 14"
+    },
+    "sku": "N51-VE-TDF"
+  },
+  {
+    "categoria": "Celular",
+    "nombre": "Enova E10 View Max - 6.74\" 3GB 32GB Android 14",
+    "mensaje_vendedor": "El smartphone esencial para quienes buscan practicidad. Con Android 14, pantalla amplia y batería duradera, cubre las necesidades diarias con fluidez.",
+    "beneficios_clave": [
+      "Pantalla grande 6.74\" HD",
+      "Cámara de 13 MP",
+      "Batería de 4000 mAh con buena autonomía"
+    ],
+    "frase_comercial": "Sencillo, confiable y con todo lo que necesitás.",
+    "tips_venta": [
+      "Mostrá su fluidez en apps básicas",
+      "Comentá la expansión con microSD",
+      "Enfatizá su practicidad y precio accesible"
+    ],
+    "preguntas_calificacion": [
+      "¿Lo usa para redes o también para juegos?",
+      "¿Busca cámara o batería como prioridad?",
+      "¿Cuánto espacio necesita?"
+    ],
+    "ficha_tecnica": {
+      "pantalla": "6.74\" HD",
+      "procesador": "Unisoc SC9863 Octa Core",
+      "ram": "3 GB",
+      "almacenamiento": "32 GB + microSD",
+      "bateria": "4000 mAh",
+      "camaras": "Trasera 13 MP / Frontal 5 MP",
+      "sistema_operativo": "Android 14"
+    },
+    "sku": "E10VIEWMAX-BL-TDF"
+  },
+  {
+    "categoria": "Microondas",
+    "nombre": "Enova ME2010-BL - Microondas 20L Blanco",
+    "mensaje_vendedor": "Practicidad pura. Ideal para quienes buscan calentar y descongelar sin complicaciones, con controles mecánicos simples y diseño clásico.",
+    "beneficios_clave": [
+      "Control por perillas mecánicas",
+      "Capacidad ideal de 20 litros",
+      "Potencia de 1100W con función descongelar"
+    ],
+    "frase_comercial": "Simplicidad y eficiencia para el día a día.",
+    "tips_venta": [
+      "Mostrá lo fácil que es usarlo: dos perillas y listo",
+      "Comentá que su tamaño entra en cualquier cocina",
+      "Enfatizá su durabilidad mecánica"
+    ],
+    "preguntas_calificacion": [
+      "¿Para cuántas personas lo van a usar?",
+      "¿Lo quieren para calentar o también cocinar?",
+      "¿Prefieren controles digitales o mecánicos?"
+    ],
+    "ficha_tecnica": {
+      "capacidad": "20 L",
+      "potencia": "1100 W",
+      "control": "Perillas mecánicas",
+      "funciones": ["Calentar", "Descongelar"],
+      "color": "Blanco",
+      "eficiencia": "D"
+    },
+    "sku": "ME2010-BL"
+  }
+]
+
