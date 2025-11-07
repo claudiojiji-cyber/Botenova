@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>EnovaBot</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0" />
+</head>
+<body>
+  <div class="chat-container" aria-live="polite">
+    <!-- Header -->
+    <div class="chat-header">
+      <div class="header-left">
+        <img src="img/enova-logo.png" alt="Enova" class="logo" onerror="this.style.display='none'">
+        <div class="title">
+          <h1>EnovaBot</h1>
+          <small>Tu asistente de productos Enova</small>
+        </div>
+      </div>
+      <div class="header-right">
+        <button id="btn-menu" class="icon-btn" title="Volver al menú"><span class="material-symbols-rounded" aria-hidden="true">home</span></button>
+        <button id="clear-chat" class="icon-btn" title="Limpiar chat"><span class="material-symbols-rounded" aria-hidden="true">delete_sweep</span></button>
+      </div>
+    </div>
+
+    <!-- Categorías -->
+    <div class="categories" id="categories">
+      <button class="cat-btn" data-cat="TV">📺 TV</button>
+      <button class="cat-btn" data-cat="Notebook">💻 Notebooks</button>
+      <button class="cat-btn" data-cat="Heladera">🧊 Heladeras</button>
+      <button class="cat-btn" data-cat="Lavarropas">🧺 Lavado</button>
+      <button class="cat-btn" data-cat="Aire">❄️ Aires</button>
+      <button class="cat-btn" data-cat="Celular">📱 Celulares</button>
+      <button class="cat-btn" data-cat="Microondas">🍲 Microondas</button>
+    </div>
+
+    <!-- Chat -->
+    <div id="chat-box" class="chat-box">
+      <div class="bot-message initial">
+        Hola 😊 soy <strong>EnovaBot</strong>.<br>
+        Elegí una categoría o escribí nombre, código o característica (ej.: <em>50 pulgadas</em>, <em>Inverter</em>, <em>No Frost</em>).
+      </div>
+    </div>
+
+    <!-- Input -->
+    <div class="input-area">
+      <input type="text" id="user-input" placeholder="Escribí tu consulta aquí..." autocomplete="off" />
+      <button id="send-btn">Enviar</button>
+    </div>
+  </div>
+
+  <!-- Modal de ficha técnica / beneficios (flotante) -->
+  <div id="modal-overlay" class="modal-overlay" aria-hidden="true">
+    <div class="modal">
+      <button id="modal-close" class="modal-close" title="Cerrar"><span class="material-symbols-rounded">close</span></button>
+      <div id="modal-content">
+        <!-- Se llena dinámicamente desde script.js -->
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
